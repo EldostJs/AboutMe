@@ -1,7 +1,6 @@
 
 <div id="header" align="center">
   <h1> Hi there i`m Eldost </h1>
-  <h3> Junior Frontend Developer</h3>
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges" align='center'>
@@ -10,9 +9,9 @@
     <img src="https://komarev.com/ghpvc/?username=EldostJs&style=flat-square&color=blue" alt=""/>
   </a>
 <div id='aboutMe' align='center'>
-  I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+  ### :woman_technologist: About Me :
+  I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
   - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
   - :seedling: Exploring Technical Content Writing.
   - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-  - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 </div>
