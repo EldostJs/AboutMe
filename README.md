@@ -16,7 +16,7 @@
 <h4> - :telescope: I have analytical skills.</h4>
 <h4> - :seedling: I take my work responsibly.</h4>
 <h4> - :zap: I am sociable and can work in a team.</h4>
-<h3> Language Skill</h3>
+<h3> :earth_americas:	 Language Skill</h3>
 <div> - <img src="https://static-00.iconduck.com/assets.00/russia-icon-1024x946-w4so6t0m.png" width='20' height='10'/> C2</div>
 <div> - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/2560px-Flag_of_Azerbaijan.svg.png"width='20'height='10'/> C2</div>
 <div> - <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAaqB2mIsyptoVUe2J8N_9xk6RPLUg44Fv-Gb4yVXWiA&s" width='20' height='10' /> B1</div>
