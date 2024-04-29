@@ -7,4 +7,8 @@
 <div id="badges" align='center'>
   <a href="https://www.linkedin.com/in/eldost-mirzeyev-8512732aa/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    https://komarev.com/ghpvc/?username=EldostJs
+    <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
   </a>
+### About Me 
+-  I`m currently
