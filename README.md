@@ -16,6 +16,7 @@
 <h4> - :telescope: I have analytical skills.</h4>
 <h4> - :seedling: I take my work responsibly.</h4>
 <h4> - :zap: I am sociable and can work in a team.</h4>
+<img src="https://static-00.iconduck.com/assets.00/russia-icon-1024x946-w4so6t0m.png" width='40' height='40'/>
 </div>
 <div id='language' align='left'>
   <h3>:hammer_and_wrench: Languages and Tools :</h3>
