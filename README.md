@@ -31,5 +31,5 @@
 </div>
 <div id='myStats' align='left'>
   <h3>:fire: My Stats :</h3>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EldostJs)](https://git.io/streak-stats)
 </div>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=EldostJs)](https://git.io/streak-stats)
