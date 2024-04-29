@@ -13,9 +13,9 @@
 <div id='aboutMe' align='left'>
 <h3> :man_technologist: About Me :</h3>
 <h4> I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Azerbaijan.</h4>  
-<h4> - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.</h4>
-<h4> - :seedling: Exploring Technical Content Writing.</h4>
-<h4> - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.</h4>
+<h4> - :telescope: I have analytical skills.</h4>
+<h4> - :seedling: I take my work responsibly.</h4>
+<h4> - :zap: I am sociable and can work in a team.</h4>
 </div>
 <div id='language' align='left'>
   <h3>:hammer_and_wrench: Languages and Tools :</h3>
