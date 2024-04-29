@@ -12,10 +12,10 @@
   </div>
   Markdown
 <div id='aboutMe' align='left'>
-  :man_technologist: About Me :
-  I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Azerbaijan.
-  - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-  - :seedling: Exploring Technical Content Writing.
-  - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+<h3> :man_technologist: About Me :</h3>
+<h4> I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Azerbaijan.</h4>  
+<h4> - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.</h4>
+<h4> - :seedling: Exploring Technical Content Writing.</h4>
+<h4> - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.</h4>
 </div>
 
