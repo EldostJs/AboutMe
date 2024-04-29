@@ -32,4 +32,6 @@
 <div id='myStats' align='left'>
   <h3>:fire: My Stats :</h3>
   https://github-readme-streak-stats.herokuapp.com/?user=EldostJs
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EldostJs&theme=dark&background=000000)](https://git.io/streak-stats)
+
 </div>
