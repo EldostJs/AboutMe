@@ -31,5 +31,5 @@
 </div>
 <div id='myStats' align='left'>
   <h3>:fire: My Stats :</h3>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EldostJs&hide_progress=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EldostJs&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
