@@ -31,6 +31,6 @@
 </div>
 <div id='myStats' align='left'>
   <h3>:fire: My Stats :</h3>
-</div>
-[![GitHub Streak](https://streak-stats.demolab.com?user=Eldost&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
+<div stye.display='none'>[![GitHub Streak](https://streak-stats.demolab.com?user=Eldost&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)</div>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Eldost&theme=highcontrast&hide_border=true" alt="GitHub Streak" /></a>
+</div>
