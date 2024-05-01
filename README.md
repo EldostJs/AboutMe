@@ -33,7 +33,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original.svg" width='40' height='40' />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width='40' height='40' />
 </div>
-<div id='myStats' align='left'>
+<div id='myStats' align='left' display='flex' >
   <h3>:fire: My Stats :</h3>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EldostJs)](https://github.com/anuraghazra/github-readme-stats)
