@@ -35,7 +35,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original.svg" title="Stackoverflow" width='40' height='40' />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="VSCode" width='40' height='40' />
   <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-line-wordmark.svg" title="Trello" width='40' height='40' />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-line-wordmark.svg" title="FireBase" width='40' height='40' />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" title="FireBase" width='40' height='40' />
 </div>
 <div id='myStats' align='left'>
   <h3>:fire: My Stats :</h3>
