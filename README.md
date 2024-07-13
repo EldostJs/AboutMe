@@ -36,6 +36,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="VSCode" width='40' height='40' />
   <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-line-wordmark.svg" title="Trello" width='40' height='40' />
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" title="FireBase" width='40' height='40' />
+  <img src="https://t3.ftcdn.net/jpg/05/97/37/46/360_F_597374605_tph8vB4RrkKvN2MT1gKeJUKerCR8LYu8.jpg" title="API" widt="40" height="40">
 </div>
 <div id='myStats' align='left'>
   <h3>:fire: My Stats :</h3>
